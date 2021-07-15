@@ -6,7 +6,7 @@ from aiogram import Bot, Dispatcher, types
 from pymongo import MongoClient
 import datetime as dt
 
-bot = Bot(token="1223836575:AAHg-lTcEKq6RFKcf-bfEsdQ1520K9_nmuY", parse_mode="HTML")
+bot = Bot(token="XXXXXXXXXXXXXXXXXXXXX", parse_mode="HTML")
 dp = Dispatcher(bot)
 
 
